@@ -13,7 +13,7 @@ I refered YOUTUBE,
 ### Abstract
 I made GradientBoostingRegressor algorithm after studying it.  
 To understand it, Refer upper youtube link! My code is just implementing logic introduced in that.  
-A GradientBoostingRegressor contains numerous weak regressor based on tree. So I used sklearn.tree.DecisionTreeRegressor.  
+A GradientBoostingRegressor contains numerous weak regressors based on tree. So I used sklearn.tree.DecisionTreeRegressor.  
 ( I think that implementing DecisionTreeRegressor is much harder than implementing GradientBoostingRegressor.  
 I'll implement DecisionTree later... )
 
